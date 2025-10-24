@@ -13,4 +13,4 @@ Bu proje, React kullanarak oluşturulmuş, basit bir kitaplık yönetim arayüz�
 
 Uygulamayı buradan inceleyebilirsiniz:
 
-[Canlı Siteye Git](https://[Sizin Proje Linkiniz])
+[Canlı Siteye Git](https://libraryhomework2.netlify.app/)
