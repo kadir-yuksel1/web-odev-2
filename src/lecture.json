@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "React'e Giriş",
+    "author": "D. Usta-Web",
+    "favori": false,
+    "area": "Web"
+  },
+  {
+    "id": 2,
+    "title": "İleri JavaScript",
+    "author": "S. Kılıç-Web",
+    "favori": true,
+    "area": "Web"
+  },
+  {
+    "id": 3,
+    "title": "Veri Yapıları",
+    "author": "A. Demir-CS",
+    "favori": false,
+    "area": "CS"
+  },
+  {
+    "id": 4,
+    "title": "Algoritmalar",
+    "author": "E. Kaya-CS",
+    "favori": true,
+    "area": "CS"
+  },
+  {
+    "id": 5,
+    "title": "UI/UX Temelleri",
+    "author": "N. Yılmaz-Design",
+    "favori": false,
+    "area": "Design"
+  }
+]

@@ -1,0 +1,130 @@
+.home {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 120vh;
+  overflow: hidden;
+}
+
+.header {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.input {
+  padding: 5px 10px;
+  border: 1px solid #000;
+  border-radius: 10px;
+  width: 200px;
+  height: 30px;
+}
+
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: row;
+  padding: 5px 10px;
+  gap: 3px;
+  border: 2px solid #000;
+  border-radius: 10px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+  width: 90px;
+  height: 40px;
+}
+
+.selectBtn {
+  padding: 5px 10px;
+  border: 2px solid #000;
+  border-radius: 10px;
+  background-color: goldenrod;
+  color: #fff;
+  cursor: pointer;
+  width: 100px;
+  height: 40px;
+}
+
+.bookCard {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 2px solid rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  width: 250px;
+  height: 80px;
+  position: relative;
+}
+
+.deleteIcon{
+  cursor: pointer;
+  top: 5px;
+  right: 5px;
+  position: absolute;
+}
+
+.bookCardBtn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+  padding: 5px 10px;
+  border: 2px solid #000;
+  border-radius: 10px;
+  background-color: gold;
+  color: #000;
+  cursor: pointer;
+  width: 100px;
+  height: 40px;
+  gap: 5px;
+}
+
+.bookName {
+  font-weight: bold;
+}
+
+.author {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.favorite_card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border: 2px solid rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  width: 300px;
+}
+
+.favorite_removeBtn {
+  padding: 5px 10px;
+  border: 2px solid #000;
+  border-radius: 10px;
+  background-color: red;
+  color: #fff;
+  cursor: pointer;
+  width: 60px;
+  height: 30px;
+}
+
+.list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+  margin: 5px;
+  gap: 5px;
+  width: 250px;
+}
+
+ul li {
+  list-style: disc outside;
+  padding: 0;
+}
